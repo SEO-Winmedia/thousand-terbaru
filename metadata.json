@@ -1,0 +1,8 @@
+{
+  "name": "Thousand Tables Premium",
+  "description": "Premium corporate and social catering platform with elegant ordering experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
